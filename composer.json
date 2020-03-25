@@ -1,0 +1,18 @@
+{
+    "name": "MashinaMashina/CI4HLPager",
+    "type": "library",
+    "description": "Highload paginator for CodeIgniter4",
+    "homepage": "https://github.com/MashinaMashina/CI4HLPager",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2",
+    },
+    "autoload": {
+        "psr-4": {
+            "MashinaMashina\\CI4HLPager\\": "src/"
+        }
+    },
+    "support": {
+        "source": "https://github.com/codeigniter4/CodeIgniter4"
+    }
+}
